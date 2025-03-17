@@ -10,7 +10,7 @@
     "test": "jest --watchAll"
   },
   "dependencies": {
-    "@babel/core": "^7.20.7",
+    "@babel/core": "^7.26.10",
     "@babel/preset-env": "^7.20.2",
     "@babel/runtime": "^7.20.7",
     "babel-jest": "^29.3.1",
